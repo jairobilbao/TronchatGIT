@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tronchatv1</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="usernameHint">Nombre de usuario</string>
+    <string name="password_Hint">Contraseña</string>
+    <string name="email_Hint">E-mail</string>
+    <string name="login_button_label">ingresar</string>
+    <string name="signUpLabel">Regístrate!</string>
+    <string name="signUpErrorTitle">Atención!</string>
+    <string name="signUpError">Debes rellenar todos los datos!</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+</resources>
